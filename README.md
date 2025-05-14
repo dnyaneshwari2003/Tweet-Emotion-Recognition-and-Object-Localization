@@ -1,4 +1,4 @@
-## 1. Tweet Emotion Recognition
+### 1. Tweet Emotion Recognition
 Goal: Classify a tweet's emotional tone (like joy, anger, sadness, etc.)
 
 Key components:
@@ -17,7 +17,7 @@ Evaluation: Accuracy, F1-score, Confusion matrix
 
 
 
-##  2. Object Localization
+### 2. Object Localization
 Goal: Detect and localize objects in an image (bounding box + class label)
 
 Key components:
