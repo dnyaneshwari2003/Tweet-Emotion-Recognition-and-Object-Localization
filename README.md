@@ -1,7 +1,7 @@
 # 1. Tweet Emotion Recognition
 Goal: Classify a tweet's emotional tone (like joy, anger, sadness, etc.)
 
-Key components:
+### Key components:
 
 Data: Hugging Face datasets (like emotion or tweet_eval)
 
