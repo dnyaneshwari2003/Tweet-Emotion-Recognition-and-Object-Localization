@@ -20,7 +20,7 @@ Evaluation: Accuracy, F1-score, Confusion matrix
 # 2. Object Localization
 Goal: Detect and localize objects in an image (bounding box + class label)
 
-## Key components:
+### Key components:
 
 Backbone: EfficientNet (from timm)
 
